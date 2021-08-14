@@ -1,5 +1,6 @@
 ## Основаная информация:
 Пространство имен: `Migliore.RPGSystem.Models.Data`
+
 Имя класса: `PlayerAbilitiesData`
 
 ## Ссылки на документацию других файлов
